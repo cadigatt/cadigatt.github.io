@@ -1,0 +1,7 @@
+markdown: redcarpet
+highlighter: pygments
+
+title_tag_text: Solo, a Jekyll Theme
+h1_tag_text: cadigatt
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
