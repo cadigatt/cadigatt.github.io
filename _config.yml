@@ -2,6 +2,10 @@ markdown: redcarpet
 highlighter: pygments
 
 title_tag_text: cadigatt, mobile software
-h1_tag_text: cadigatt
+h1_tag_text: "Roman Nums"
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
+
+title: cadigatt
+email: "info@cadigatt.com"
+twitter: "cadigatt"
