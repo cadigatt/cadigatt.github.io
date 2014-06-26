@@ -9,3 +9,6 @@ exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "nod
 title: cadigatt
 email: "info@cadigatt.com"
 twitter: "cadigatt"
+
+
+relative_permalinks: false
