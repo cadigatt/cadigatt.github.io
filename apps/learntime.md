@@ -5,7 +5,7 @@ permalink: /learntime/
 app-id: 305241017
 ipad-app-id: 305241017
 ---
-![LearnTime-placed](/images/LearnTime-placed.png)
+![MathsFacts product](/assets/images/learntime/product.png)
 
 LearnTime provides an interactive way to learn to tell the time on the iPhone or iPod Touch. It shows a colourful clock with multiple levels of difficulty that is fine for beginners and more advanced learners. To use it, just move the hands to the correct position and press the button to submit your answer. If the answer is incorrect you will be shown the correct answer.
 

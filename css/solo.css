@@ -115,6 +115,7 @@ hr {
 .container img {
   margin: 0 auto;
   display: block;
+  border-radius: 5px; /* poole */
 }
 
 table {
