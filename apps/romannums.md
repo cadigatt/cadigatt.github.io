@@ -2,6 +2,8 @@
 title: Roman Nums
 layout: app
 permalink: /romannums/
+app-id: 291773125
+description: Provides an easy way of converting Roman numerals into more understandable numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/CzQ75LmYDJw" frameborder="0" allowfullscreen></iframe>
 
