@@ -32,9 +32,11 @@ _Number Bonds_ – what numbers add up to 4? 0+4=4, 1+3=4, and 2+2=4.
 
 _Facts Families –_ what addition and subtraction facts can you make with the numbers 1, 2, and 3? The addition facts are 1+2=3 and 2+1=3. The subtraction facts are 3-1=2 and 3-2=1.
 
-_Addition Facts –_ 10 questions test you on your adding.
+_Addition Facts –_ 10 questions that test you on your adding.
 
-_Subtraction Facts –_ 10 questions test you on your subtracting.
+_Subtraction Facts –_ 10 questions that test you on your subtracting.
+
+_Missing Addends –_ 10 questions that test you on finding the missing number in a sum.
 
 We will be adding more games and quizzes with free updates, so please contact us if you have any requests or suggestions.
 
