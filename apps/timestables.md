@@ -15,7 +15,7 @@ gallery:
 - image: images/results.jpg
   thumbnail: images/results-150x150.jpg
 ---
-<img class="alignright size-medium wp-image-762" alt="TimesTables" src="/assets/images/timestables/TimesTables-169x300.jpg" width="169" height="300">
+<img class="alignright size-medium wp-image-762" alt="TimesTables" src="/assets/images/timestables/TimesTables.png" width="164" height="300">
 
 Fun way of learning the times tables (or multiplication tables) and division tables from 1 to 12 on your iPhone, iPod Touch, and iPad. It has features that are interesting to children and also to parents.
 
