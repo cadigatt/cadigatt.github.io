@@ -31,4 +31,4 @@ There is a support page [here](/romannums/support/) that answers some common que
 
 Historically there have been multiple ways of writing numbers larger than 4000. The number 5000 can be written as v̅ (with a bar on top), as IↃↃ, or even V M. In this version of Roman Numerals, large numbers will automatically appear with a bar over them, but can also can be written as IↃↃ if you choose to enable them in the settings.
 
-<p style="text-align: center;"><a href="http://appstore.com/robclarke/romannumerals"><img class="aligncenter  wp-image-257" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
+<p style="text-align: center;"><a href="http://appstore.com/robclarke/romannumerals"><img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
