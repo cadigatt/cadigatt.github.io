@@ -12,7 +12,7 @@ gallery:
 - image: images/Number-Bonds.png
   thumbnail: images/Number-Bonds-150x150.png
 ---
-![MathsFacts product](/assets/images/mathsfacts/table.png)
+![MathsFacts product](/assets/images/mathsfacts/product.png)
 
 Maths Facts offers a series of easy to play games designed to help your child practice and learn the addition and subtraction facts, along with facts families and number bonds. Visit the [app store](http://appstore.com/robclarke/mathsfacts) to find out more.
 
@@ -23,7 +23,8 @@ Maths Facts offers a series of easy to play games designed to help your child pr
 - easy to play games with sliding tiles;
 - colourful and animated;
 - same app works on iPad and iPhone/iPod;
-- different games that focus on the Number Bonds, Facts Families, as well as adding and subtracting.
+- different games that focus on the Number Bonds, Facts Families, as well as adding and subtracting;
+- choose between number bonds up to 10 or up to 20.
 
 ### Games
 
