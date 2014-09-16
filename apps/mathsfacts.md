@@ -45,4 +45,4 @@ We will be adding more games and quizzes with free updates, so please contact us
 ### Questions or problems?
 
 
-If you have any questions about this app or you having problems with it please contact us via email at [support@cadigatt.com](mailto:support@cadigatt.com).
+If you have any questions about this app or you having problems with it pleasecheck the [Support page](/mathsfacts/support/) or contact us via email at [support@cadigatt.com](mailto:support@cadigatt.com).
