@@ -14,4 +14,4 @@ You can easily turn hyphenation on or off from the main screen. Tap on Settings 
 
 ### British English? American English? Aren't they the same?
 
-In the US, numbers are often written without 'and' or commas, whereas in other parts of the English-speaking world, they are used. Other than that the numbers are the same.
+In the US, numbers are often written without 'and' or commas, whereas in other parts of the English-speaking world, they are used. Other than that the numbers should be the same.
