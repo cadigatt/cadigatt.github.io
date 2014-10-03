@@ -12,3 +12,6 @@ twitter: "cadigatt"
 
 
 relative_permalinks: false
+
+gems:
+  - jekyll-sitemap
