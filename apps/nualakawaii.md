@@ -4,7 +4,7 @@ title: Nuala Kawaii
 permalink: /nualakawaii/
 app-id: 924537835
 ipad-app-id: 924537835
-description: A fun and colourful kawaii face that you can send to your friends.
+description: Easily create a colourful kawaii face, by tapping on the eyes and mouth to change expression, and the background to change colour. Then you can save the photo or share it with friends. Maybe you could just leave it next to you with its happy face!
 ---
 ![Nuala Kawaii product](/assets/images/nualakawaii/product.png)
 
