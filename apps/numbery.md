@@ -3,7 +3,7 @@ layout: app
 title: Numbery
 permalink: /numbery/
 app-id: 918527636
-category: maths-facts
+description: A simple app to spell out numbers and help you learn foreign languages.
 ---
 ![Numbery product](/assets/images/numbery/product.png)
 

@@ -3,6 +3,8 @@ layout: app
 title: Nuala Kawaii
 permalink: /nualakawaii/
 app-id: 924537835
+ipad-app-id: 924537835
+description: A fun and colourful kawaii face that you can send to your friends.
 ---
 ![Nuala Kawaii product](/assets/images/nualakawaii/product.png)
 

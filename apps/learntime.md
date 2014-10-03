@@ -4,6 +4,7 @@ layout: app
 permalink: /learntime/
 app-id: 305241017
 ipad-app-id: 305241017
+description: Learn to read the time by playing with a fun interactive clock.
 ---
 ![MathsFacts product](/assets/images/learntime/product.png)
 

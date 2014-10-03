@@ -3,7 +3,9 @@ layout: app
 title: Maths Facts
 permalink: /mathsfacts/
 app-id: 459281769
+ipad-app-id: 459281769
 category: maths-facts
+description: Maths Facts offers a series of games to explore the addition and subtraction facts up to 20.
 gallery:
 - image: images/Addition-Game.png
   thumbnail: images/Addition-Game-150x150.png

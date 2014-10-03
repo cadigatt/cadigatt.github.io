@@ -4,6 +4,8 @@ title: Times Tables
 permalink: /timestables/
 app-id: 294523707
 ipad-app-id: 294523707
+description: Fun way of learning the times times and division tables from 1 to 12.
+
 category: times-tables
 gallery:
 - image: images/en-homeview.jpg
