@@ -17,4 +17,4 @@ When you change your regional settings, the date picker automatically changes, b
 
 ### I want to convert Roman Numerals and not dates
 
-If you want to convert Roman Numerals, then the [Roman Nums : Converter](/apps/roman-numerals/) app is probably what you are looking for.
+If you want to convert Roman Numerals, then the [Roman Nums : Converter](/romansnums/) app is probably what you are looking for.

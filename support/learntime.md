@@ -5,7 +5,7 @@ title: Support for Learn Time
 permalink: /learntime/support/
 ---
 
-This is the support page for [Learn Time](http://www.cloudpebbles.com/apps/learn-time/).
+This is the support page for [Learn Time](/learntime/).
 
 ### What happened to the nautical theme?
 

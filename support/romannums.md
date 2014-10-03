@@ -4,7 +4,7 @@ title: "Support for Roman Nums : Converter"
 permalink: /romannums/support/
 ---
 
-This is the support page for [Roman Nums : Converter](/apps/roman-numerals/).
+This is the support page for [Roman Nums : Converter](/romannums/).
 
 
 ### Why do my numbers appear as "<span style="text-decoration:overline">I</span> CIV" instead of normal Roman Numerals?
