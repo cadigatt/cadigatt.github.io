@@ -19,7 +19,8 @@ To use it just choose whether you want to convert from Roman numerals or from Ar
   * automatically converts Roman Numerals (e.g. VV -> X) and ignores invalid ones;
   * Roman Numerals can be shown in numerical or alphabetical order;
   * an optional Calculator to calculate MMII-XV*L _(in-app purchase)_;
-  * an optional Calendar to convert any date into Roman numerals _(in-app purchase)_.
+  * an optional Calendar to convert any date into Roman numerals _(in-app purchase)_;
+  * an optional Crossword Solver to show the Roman Nums for missing unknown clues _(in-app purchase)_.
 
 ### Support
 
