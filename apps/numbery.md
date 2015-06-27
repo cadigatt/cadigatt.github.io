@@ -11,13 +11,22 @@ Do you need to spell out out numbers, transforming numbers into words? Are you l
 
 <p style="text-align: center;"><a href="http://appstore.com/robclarke/numbery"><img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
 
-This app can convert 99 to ninety-nine, 1994 to mille-neuf-cent-quatre-vingt-quatorze and 322463 to dreihundertzweiundzwanzigtausendvierhundertdreiundsechzig and if you want to hear them spoken automatically, just tap on the speak button.
+This app can convert 99 to ninety-nine, 1994 to mille-neuf-cent-quatre-vingt-quatorze[^hyphens] and 322463 to dreihundertzweiundzwanzigtausendvierhundertdreiundsechzig and if you want to hear them spoken automatically, just tap on the speak button.
 
-### Languages:
+Available on the iPhone and now on the Apple Watch and iPad.
 
-This first version is the _EFIGS_ version, so that means English, French, Italian, German, and Spanish. However, you can choose between British English and American English (one hundred AND two or just one hundred two), and the French number system used in France, Belgium or Switzerland, with the option to turn off hyphens if you prefer "quatre cent" to "quatre-cent".
+### Number systems:
 
-Portuguese has been added together with a simple Apple Watch app.
+The supported number systems are:
+
+- English (UK, US)
+- French (France, Belgium, Switzerland)
+- German
+- Italian
+- Portuguese (Portgual, Brazil)
+- Spanish
+
+The next batch of supported number systems are going to be Japanese and Korean.
 
 ### Long words:
 
@@ -26,3 +35,5 @@ Languages such as Italian and German write numbers as a single word, so for thos
 ### Questions or problems?
 
 If you have any questions about this app or you having problems with it please check the [Support page](/numbery/support/) or contact us via email at [support@cadigatt.com](mailto:support@cadigatt.com).
+
+[^hyphens]: Hyphens can be turned off for the French numbers if you prefer "quatre cent" to "quatre-cent".
