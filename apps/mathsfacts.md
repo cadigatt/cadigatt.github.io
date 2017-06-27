@@ -25,7 +25,7 @@ Maths Facts offers a series of easy to play games designed to help your child pr
 - easy to play games with sliding tiles;
 - colourful and animated;
 - same app works on iPad and iPhone/iPod;
-- different games that focus on the Number Bonds, Facts Families, as well as adding and subtracting;
+- different games that focus on the Number Bonds, Facts Families, as well as adding, subtracting, multiplying, and dividing;
 - choose between number bonds up to 10 or up to 20.
 
 ### Games
@@ -38,6 +38,10 @@ _Facts Families –_ what addition and subtraction facts can you make with the 
 _Addition Facts –_ 10 questions that test you on your adding.
 
 _Subtraction Facts –_ 10 questions that test you on your subtracting.
+
+_Multiplication Facts –_ 10 questions that test you on your multiplying.
+
+_Division Facts –_ 10 questions that test you on your dividing.
 
 _Missing Addends –_ 10 questions that test you on finding the missing number in a sum.
 
