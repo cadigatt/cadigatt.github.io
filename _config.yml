@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 
 title_tag_text: mobile software
 h1_tag_text: "Roman Nums"
