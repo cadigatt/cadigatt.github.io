@@ -16,9 +16,9 @@ gallery:
 ---
 ![MathsFacts product](/assets/images/mathsfacts/product.png)
 
-Maths Facts offers a series of easy to play games designed to help your child practice and learn the addition and subtraction facts, along with facts families and number bonds. Visit the [app store](http://appstore.com/robclarke/mathsfacts) to find out more.
+Maths Facts offers a series of easy to play games designed to help your child practice and learn the addition and subtraction facts, along with facts families and number bonds. Visit the [app store](https://itunes.apple.com/it/app/maths-facts-number-bonds-fact-families/id459281769?l=en&mt=8) to find out more.
 
-<p style="text-align: center;"><a href="http://appstore.com/robclarke/mathsfacts"><img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
+<p style="text-align: center;"><a href="https://itunes.apple.com/it/app/maths-facts-number-bonds-fact-families/id459281769?l=en&mt=8"><img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
 
 ### Features:
 
