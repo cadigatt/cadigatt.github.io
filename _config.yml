@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 title_tag_text: mobile software
