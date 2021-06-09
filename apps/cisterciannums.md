@@ -6,7 +6,7 @@ app-id: 1571368216
 description: Provides an easy way of converting numbers into Cistercian numerals.
 ---
 
-![Cistercian Nums product](/assets/images/cisterciannums/product.png)
+![Cistercian Nums product](/assets/images/cisterciannums/product.jpg)
 
 **Cistercian Nums : Converter** provides an easy way of converting numbers into Cistercian numerals. To begin just type in your year and the corresponding symbol will appear.
 
