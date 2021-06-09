@@ -19,7 +19,7 @@ Is your partner on the other side of the world or do you have colleagues, family
 
 This app can help you If you need to keep track of what time it is in another part of the world and easily see when you are both available. Once you have chosen their location, you can note down your availability times and choose they symbol that appears when they both match.
 
-<a href="http://appstore.com/robclarke/youandmeworldclock"><img class="alignright" title="App_Store_Badge_EN_0609" alt="" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40" /></a>
+<!-- <a href="http://appstore.com/robclarke/youandmeworldclock"><img class="alignright" title="App_Store_Badge_EN_0609" alt="" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40" /></a> -->
 
 ### Information
 

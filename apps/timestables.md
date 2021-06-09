@@ -34,7 +34,7 @@ Fun way of learning the times tables (or multiplication tables) and division tab
 
 
 <p style="text-align: center;">
-  <a href="http://appstore.com/robclarke/timestables">
+  <a href="https://appstore.com/robclarke/timestables">
   <img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40">
   </a>
 </p>
