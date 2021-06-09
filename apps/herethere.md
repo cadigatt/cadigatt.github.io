@@ -25,5 +25,5 @@ This app can help you If you need to keep track of what time it is in another pa
 
 This app exists thanks to the following:
 
-- sunrise and sunset calculations thanks to <a href="https://github.com/erndev/EDSunriseSet">Paul Schlyter</a>
+- sunrise and sunset calculations thanks to <a href="https://github.com/erndev/EDSunriseSet">Paul Schlyter</a>
 - list of cities thanks to <a href="http://www.geonames.org">GeoNames.org</a>
