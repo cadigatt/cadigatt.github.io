@@ -10,7 +10,7 @@ description: Easily create a colourful kawaii face, by tapping on the eyes and m
 
 A quick and easy way of creating a kawaii face. Tap on the background to change colour, tap on the eyes and mouth to change expression and then save the photo or share it with friends. Maybe you could just leave it next to you with its happy face!
 
-<p style="text-align: center;"><a href="http://appstore.com/robclarke/nualakawaii"><img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
+<p style="text-align: center;"><a href="https://appstore.com/robclarke/nualakawaii"><img class="aligncenter" title="Available on the iPhone App Store" alt="Available on the iPhone App Store" src="/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" height="40"></a></p>
 
 
 ### Questions or problems?
